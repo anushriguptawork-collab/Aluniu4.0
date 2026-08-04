@@ -11,7 +11,7 @@ If a file is missing, that memory falls back to its emoji (`icon` in
 
 | Order | Memory | File |
 |---|---|---|
-| 1 | Where It All Began | `meet.jpg` |
+| 1 | Where It All Began | `meet.png` |
 | 2 | Our First Movie | `movie.jpg` |
 | 3 | The Rainy Walk | `rain.jpg` |
 | 4 | The Fair | `fair.jpg` |

@@ -41,37 +41,37 @@ window.CHAPTER_SIZE = 5;
 
 window.CHAPTERS = [
   {
-    name: "Chapter I — First Light",
-    code: "BEGIN",
+    name: "Chapter I — Who made the first move",
+    code: "ITWASME",
     intro: "Enter the opening code to begin the journey.",
   },
   {
-    name: "Chapter II — Adventures",
+    name: "Chapter II — life happened",
     code: "JOURNEY",
     intro: "Five memories in. Enter the next code to continue the adventure.",
   },
   {
-    name: "Chapter III — Forever",
+    name: "Chapter III — How i met your mother",
     code: "FOREVER",
     intro: "The final stretch. Enter the last code to unlock the way home.",
   },
 ];
 
 window.JOURNEY = [
-  /* ───────── Chapter I — First Light (code: BEGIN) ───────── */
+  /* ───────── Chapter I — Who made the first move (code: ITWASME) ───────── */
   {
     id: "meet",
     x: 10, y: 18,
     icon: "☕",
-    title: "Where It All Began",
-    date: "Autumn, 2015",
+    title: "Chaat pe chalegi?",
+    date: "October 2023",
     photo: "images/meet",
     blurb:
-      "A rainy afternoon, two strangers, and one very crowded little café. " +
-      "Neither of us knew it yet, but the map of everything started here.",
-    question: "In which cozy place did we first meet?",
-    hint: "You order a flat white there. It rhymes with 'affair'.",
-    answers: ["cafe", "coffee shop", "the cafe", "coffeeshop", "caffe"],
+      "Someone asking me chaat pe chalegi really hit home, I didnt know back then that this person would really become the home I crave " +
+      "Thank you for being the most polite selfish person to ask me for a  conversation and seeing me through those pretty eyes for who I was, for who I can be",
+    question: "First night, first place you asked me out to.. A very specific word?",
+    hint: "Whatsapp text.",
+    answers: ["chaat", "chat", "rooftop"],
   },
   {
     id: "movie",

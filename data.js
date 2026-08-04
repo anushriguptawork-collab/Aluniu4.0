@@ -77,29 +77,29 @@ window.JOURNEY = [
     id: "movie",
     x: 28, y: 28,
     icon: "🎬",
-    title: "Magic",
+    title: "it just felt right- Magic",
     date: "Nov 2023",
     photo: "images/movie.jpg",
     blurb:
-      "We argued about the ending for the entire walk home. First of many " +
-      "post-credits debates, and neither of us has ever conceded.",
+      "I love how everything in our story makes so much sense and we have the capability to romaticise it all" +
+      "It was a winter evening, two utterly confused souls were talking if magic is real without knowing that what was happening with them was magic itself.",
     question: "The first conversation that makes all of this a butterfly effect?",
-    hint: "I think you must beleive now",
+    hint: "I think you must understand now to believe",
     answers: ["magic", "mag ic"],
   },
   {
     id: "rain",
     x: 46, y: 16,
     icon: "🌧️",
-    title: "The Rainy Walk",
-    date: "Spring, 2016",
+    title: "love like yours and i last forever",
+    date: "19 Nov 2023",
     photo: "images/rain.jpg",
     blurb:
-      "Soaked to the bone, laughing at how unprepared we were. Somehow the " +
-      "worst weather made the best memory.",
-    question: "What did we forget that day, leaving us completely soaked?",
-    hint: "You open it when it rains — if you remember to bring it.",
-    answers: ["umbrella", "the umbrella", "an umbrella"],
+      "We were scared, we are scared now, we sort of cancelling our own ideas, we evolved." +
+      "It was the happiest times, that piece of love and happiness I felt there stayed till now and so shall this",
+    question: "we wrote the same sentence on a note, although its debateable now",
+    hint: "three words",
+    answers: ["nothing lasts forever", "nothing last forever", "last forever"],
   },
   {
     id: "fair",

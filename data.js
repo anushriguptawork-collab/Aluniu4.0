@@ -47,12 +47,12 @@ window.CHAPTERS = [
   },
   {
     name: "Chapter II — life happened",
-    code: "JOURNEY",
+    code: "Universeplan",
     intro: "Five memories in. Enter the next code to continue the adventure.",
   },
   {
     name: "Chapter III — How i met your mother",
-    code: "FOREVER",
+    code: "THEOLIVETHEORY",
     intro: "The final stretch. Enter the last code to unlock the way home.",
   },
 ];
@@ -64,7 +64,7 @@ window.JOURNEY = [
     x: 10, y: 18,
     icon: "☕",
     title: "Chaat pe chalegi?",
-    date: "October 2023",
+    date: "Oct 2023",
     photo: "images/meet.JPG",
     blurb:
       "Someone asking me chaat pe chalegi really hit home, I didnt know back then that this person would really become the home I crave " +
@@ -77,15 +77,15 @@ window.JOURNEY = [
     id: "movie",
     x: 28, y: 28,
     icon: "🎬",
-    title: "Our First Movie",
-    date: "Winter, 2015",
+    title: "Magic",
+    date: "Nov 2023",
     photo: "images/movie.jpg",
     blurb:
       "We argued about the ending for the entire walk home. First of many " +
       "post-credits debates, and neither of us has ever conceded.",
-    question: "What snack did we share (and fight over) at the cinema?",
-    hint: "It's buttery, it's loud, and it always spills.",
-    answers: ["popcorn", "pop corn", "the popcorn"],
+    question: "The first conversation that makes all of this a butterfly effect?",
+    hint: "I think you must beleive now",
+    answers: ["magic", "mag ic"],
   },
   {
     id: "rain",

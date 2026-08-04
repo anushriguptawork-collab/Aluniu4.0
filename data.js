@@ -65,7 +65,7 @@ window.JOURNEY = [
     icon: "☕",
     title: "Chaat pe chalegi?",
     date: "October 2023",
-    photo: "images/meet",
+    photo: "images/meet.JPG",
     blurb:
       "Someone asking me chaat pe chalegi really hit home, I didnt know back then that this person would really become the home I crave " +
       "Thank you for being the most polite selfish person to ask me for a  conversation and seeing me through those pretty eyes for who I was, for who I can be",

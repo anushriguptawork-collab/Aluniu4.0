@@ -65,7 +65,7 @@ window.JOURNEY = [
     icon: "☕",
     title: "Where It All Began",
     date: "Autumn, 2015",
-    photo: "images/meet.jpg",
+    photo: "images/meet",
     blurb:
       "A rainy afternoon, two strangers, and one very crowded little café. " +
       "Neither of us knew it yet, but the map of everything started here.",

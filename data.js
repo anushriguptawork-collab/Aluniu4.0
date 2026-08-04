@@ -91,7 +91,7 @@ window.JOURNEY = [
     id: "rain",
     x: 46, y: 16,
     icon: "🌧️",
-    title: "love like yours and i last forever",
+    title: "love like yours and mine last forever",
     date: "19 Nov 2023",
     photo: "images/rain.jpg",
     blurb:
@@ -105,15 +105,15 @@ window.JOURNEY = [
     id: "fair",
     x: 64, y: 26,
     icon: "🎡",
-    title: "The Fair",
-    date: "Summer, 2016",
+    title: "What if...",
+    date: "nov 2023",
     photo: "images/fair.jpg",
     blurb:
       "Cotton candy, terrible aim at the ring toss, and one ride we rode " +
       "until the sun went down.",
-    question: "Which ride did we go on again and again?",
-    hint: "It's tall, it's round, and it stops at the very top for the view.",
-    answers: ["ferris wheel", "the ferris wheel", "ferriswheel", "ferris"],
+    question: "At the vending machine, thinking all the wrongs and rights.. what were we buying?",
+    hint: "What if we had not..",
+    answers: ["condom", "condoms", "condom packet"],
   },
   {
     id: "stars",
@@ -125,9 +125,9 @@ window.JOURNEY = [
     blurb:
       "Said out loud, finally, on a rooftop that was a little too cold. " +
       "Worth every shiver.",
-    question: "Under what did we finally say it out loud?",
-    hint: "They come out at night. You wish on them.",
-    answers: ["stars", "the stars", "starlight", "star"],
+    question: "When was the first time I called you my boyfriend?",
+    hint: "the night of our lives.",
+    answers: ["strip club", "at the strip club", "prague"],
   },
 
   /* ───────── Chapter II — Adventures (code: JOURNEY) ───────── */

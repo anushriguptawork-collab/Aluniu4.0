@@ -12,7 +12,7 @@
 
   const JOURNEY = window.JOURNEY || [];
   const CHAPTERS = window.CHAPTERS || [];
-  const CHAPTER_SIZE = window.CHAPTER_SIZE || 5;
+  const CHAPTER_SIZE = window.CHAPTER_SIZE || 6;
   const STORAGE_KEY = "memoirs-in-motion:progress:v2";
 
   // --- SVG coordinate space (nodes are positioned as % of this box) ---

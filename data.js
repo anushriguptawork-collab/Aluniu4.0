@@ -150,7 +150,7 @@ window.JOURNEY = [
     icon: "🏔️",
     title: "Lost & Found",
     date: "Feb 2024",
-    photo: "images/mountain.jpg",
+    photo: "images/7.jpg",
     blurb:
       "We got hopelessly lost, it was only a matter of time until we found each other in the most raw, beautiful, coincidental ways." +
       "One of many detours worth taking.",
@@ -164,7 +164,7 @@ window.JOURNEY = [
     icon: "🚗",
     title: "make you mine",
     date: "March 2024",
-    photo: "images/roadtrip.jpg",
+    photo: "images/8.jpg",
     blurb:
       "One playlist on repeat, a map we never really read, and a detour that " +
       "became the whole point.",
@@ -178,7 +178,7 @@ window.JOURNEY = [
     icon: "🌊",
     title: "love begins",
     date: "April 2024",
-    photo: "images/beach.jpg",
+    photo: "images/9.jpg",
     blurb:
       "Conversations that move us, that stay. I love to have conversations that matter, that put our beliefs to question, that we learn and adapt from, you have been that one person i want to talk to about anything and everything  " +
       "I was on the terrace where i spend hours of my childhood pondering about the existence of this world, complex concepts, I was always lost and alone in these thoughts, that night younger alu slept with so much peace knowing she was not alone and weird afterall, she just needed to find someone who matches her freak",
@@ -192,7 +192,7 @@ window.JOURNEY = [
     icon: "🎶",
     title: "Moving in",
     date: "July 2024",
-    photo: "images/song.jpg",
+    photo: "images/10.jpg",
     blurb:
       "A few days of living together felt like you are my end goal, that living with someone can be this fun? It felt utterly life changing and filled with happiness " +
       "to a lifetime of food experiements",
@@ -206,7 +206,7 @@ window.JOURNEY = [
     icon: "🐱",
     title: "oh to be in love",
     date: "October 2024",
-    photo: "images/cat.jpg",
+    photo: "images/11.jpg",
     blurb:
       "Followed us home in the rain and simply never left. Best decision we " +
       "didn't really make.",
@@ -220,7 +220,7 @@ window.JOURNEY = [
     icon: "🐱",
     title: "beach effect",
     date: "November, 2024",
-    photo: "images/cat.jpg",
+    photo: "images/12.jpg",
     blurb:
       "You know there are these highlights of our story that made me beleive in us better than before, for the trust in you and your love, for the darker nights to be a bit brighter with you" +
       "moving forward i trust that we can deal with any situation like this fun dark night",
@@ -236,7 +236,7 @@ window.JOURNEY = [
     icon: "🏡",
     title: "Husband duties",
     date: "16 Feb 2025",
-    photo: "images/home.jpg",
+    photo: "images/13.jpg",
     blurb:
       "The best part about you all these years has been the willingness to do things for me, treat me the best you can and make me feel special always " +
       "be it in these tiny little things or the biggest of decisions, i think thats what life would look like with you- always being treated right",
@@ -250,7 +250,7 @@ window.JOURNEY = [
     icon: "💍",
     title: "tu hai tho ill be alright",
     date: "April 2025",
-    photo: "images/question.jpg",
+    photo: "images/14.jpg",
     blurb:
       "Your touch has become a memory to my cells, so calming and healing, everything feels alright when you hold me. I cannot forget you massaging my legs while I fell asleep on the couch " +
       "i fell in love a little more with you",
@@ -264,7 +264,7 @@ window.JOURNEY = [
     icon: "🎉",
     title: "Lights out & rains",
     date: "October 2025",
-    photo: "images/bigday.jpg",
+    photo: "images/15.jpg",
     blurb:
       "We fought, we went places, we drank on streets of this beautiful city, we sat on beaches till midnight just to get lost in the waves" +
       "this was one of the places i knew you would love, i like the glitter in your eyes when you discover such places, I like that we have places, smallest of places that could mean something, atleast that mean something to you and me.",
@@ -278,7 +278,7 @@ window.JOURNEY = [
     icon: "✈️",
     title: "yellow paper daisy",
     date: "Jan 2026",
-    photo: "images/honeymoon.jpg",
+    photo: "images/16.jpg",
     blurb:
       "Yellow paper daisy, you make me crazy :D i feel like we find these flowers in middle of nowhere like we find each other",
     question: "What's the name of the flower we keep finding around in mountains",
@@ -291,7 +291,7 @@ window.JOURNEY = [
     icon: "♾️",
     title: "family",
     date: "July 2026",
-    photo: "images/onward.jpg",
+    photo: "images/17.jpg",
     blurb:
       "I wasnt planning on marriage this soon, you convinced me that living with you can make me happier and want to look forward to everyday " +
       "I felt the calm after chaos, to join your family, to be a part of yours, to call each other family",
@@ -305,7 +305,7 @@ window.JOURNEY = [
     icon: "♾️",
     title: "WE said YES!",
     date: "7 august 2026",
-    photo: "images/onward.jpg",
+    photo: "images/18.jpg",
     blurb:
       "The map doesn't end here, it just keeps drawing forward. Every day from now on is " +
       "a new node waiting to be unlocked.",

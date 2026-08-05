@@ -11,21 +11,25 @@ If a file is missing, that memory falls back to its emoji (`icon` in
 
 | Order | Memory | File |
 |---|---|---|
-| 1 | Where It All Began | `meet.JPG` |
-| 2 | Our First Movie | `movie.jpg` |
-| 3 | The Rainy Walk | `rain.jpg` |
-| 4 | The Fair | `fair.jpg` |
-| 5 | First 'I Like You' | `stars.jpg` |
-| 6 | The Mountain | `mountain.jpg` |
-| 7 | The Road Trip | `roadtrip.jpg` |
-| 8 | The Beach | `beach.jpg` |
-| 9 | Our Song | `song.jpg` |
-| 10 | The Stray We Kept | `cat.jpg` |
-| 11 | A Place of Our Own | `home.jpg` |
-| 12 | The Question | `question.jpg` |
-| 13 | The Big Day | `bigday.jpg` |
-| 14 | The Honeymoon | `honeymoon.jpg` |
-| 15 | And Onward | `onward.jpg` |
+| 1 | Where It All Began | `1.jpg` |
+| 2 | Our First Movie | `2.jpg` |
+| 3 | The Rainy Walk | `3.jpg` |
+| 4 | The Fair | `4.jpg` |
+| 5 | First 'I Like You' | `5.jpg` |
+| 6 | First 'I Like You' | `6.jpg` |
+| 7 | The Mountain | `7.jpg` |
+| 8 | The Road Trip | `8.jpg` |
+| 9 | The Beach | `9.jpg` |
+| 10 | Our Song | `10.jpg` |
+| 11 | A Place of Our Own | `11.jpg` |
+| 12 | The Question | `12.jpg` |
+| 13 | The Big Day | `13.jpg` |
+| 14 | The Honeymoon | `14.jpg` |
+| 16 | And Onward | `15.jpg` |
+| 17 | And Onward | `16.jpg` |
+| 18 | And Onward | `17.jpg` |
+| 19 | And Onward | `18.jpg` |
+
 
 ## Tips
 

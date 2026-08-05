@@ -234,8 +234,8 @@ window.JOURNEY = [
     id: "home",
     x: 8, y: 76,
     icon: "🏡",
-    title: "A Place of Our Own",
-    date: "Spring, 2019",
+    title: "Husband duties",
+    date: "16 Feb 2025",
     photo: "images/home.jpg",
     blurb:
       "Empty rooms, too many boxes, and a pizza on the floor. It wasn't much, " +
@@ -304,14 +304,14 @@ window.JOURNEY = [
     id: "question",
     x: 90, y: 84,
     icon: "♾️",
-    title: "And Onward",
-    date: "Today, and after",
+    title: "WE said YES!",
+    date: "7 august 2026",
     photo: "images/onward.jpg",
     blurb:
-      "The map doesn't end here — it just keeps drawing forward. Every day is " +
+      "The map doesn't end here, it just keeps drawing forward. Every day from now on is " +
       "a new node waiting to be unlocked.",
-    question: "How long does this journey last?",
-    hint: "Not a number. The answer we always give each other.",
-    answers: ["forever", "always", "for ever", "eternity"],
+    question: "Will you be alu's husband and partner for life, till death do us part?",
+    hint: "You can't say no",
+    answers: ["yes"],
   },
 ];

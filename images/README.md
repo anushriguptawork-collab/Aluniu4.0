@@ -11,12 +11,12 @@ If a file is missing, that memory falls back to its emoji (`icon` in
 
 | Order | Memory | File |
 |---|---|---|
-| 1 | Where It All Began | `1.jpg` |
-| 2 | Our First Movie | `2.jpg` |
-| 3 | The Rainy Walk | `3.jpg` |
-| 4 | The Fair | `4.jpg` |
-| 5 | First 'I Like You' | `5.jpg` |
-| 6 | First 'I Like You' | `6.jpg` |
+| 1 | one | `1.jpg` |
+| 2 | two | `2.jpg` |
+| 3 | three | `3.jpg` |
+| 4 | four | `4.jpg` |
+| 5 | five | `5.jpg` |
+| 6 | six | `6.jpg` |
 | 7 | The Mountain | `7.jpg` |
 | 8 | The Road Trip | `8.jpg` |
 | 9 | The Beach | `9.jpg` |

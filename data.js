@@ -262,29 +262,28 @@ window.JOURNEY = [
     id: "bigday",
     x: 41, y: 76,
     icon: "🎉",
-    title: "The Big Day",
-    date: "Summer, 2020",
+    title: "Lights out & rains",
+    date: "October 2025",
     photo: "images/bigday.jpg",
     blurb:
-      "A little rain (of course), a lot of dancing, and a room full of every " +
-      "person who mattered.",
-    question: "What rained down on us as we walked back up the aisle?",
-    hint: "Tiny, colorful, and it got everywhere for weeks.",
-    answers: ["confetti", "petals", "rice", "flower petals", "the confetti"],
+      "We fought, we went places, we drank on streets of this beautiful city, we sat on beaches till midnight just to get lost in the waves" +
+      "this was one of the places i knew you would love, i like the glitter in your eyes when you discover such places, I like that we have places, smallest of places that could mean something, atleast that mean something to you and me.",
+    question: "Which bar had the lights out and the best memories of goa?",
+    hint: "huh itni kharab memory?",
+    answers: ["bar outrigger"],
   },
   {
     id: "honeymoon",
     x: 54, y: 84,
     icon: "✈️",
-    title: "Lights out & rains",
-    date: "October 2025",
+    title: "yellow paper daisy",
+    date: "Jan 2026",
     photo: "images/honeymoon.jpg",
     blurb:
-      "We got delightfully lost down every side street and called it a plan. " +
-      "The city of light, indeed.",
-    question: "Which bar had the lights out and the best memories of goa?",
-    hint: "huh itni kharab memory?",
-    answers: ["bar outrigger"],
+      "Yellow paper daisy, you make me crazy :D i feel like we find these flowers in middle of nowhere like we find each other",
+    question: "What's the name of the flower we keep finding around in mountains",
+    hint: "google hi karle yaar",
+    answers: ["mountain daisy"],
   },
   {
     id: "onward",
@@ -294,9 +293,9 @@ window.JOURNEY = [
     date: "July 2026",
     photo: "images/onward.jpg",
     blurb:
-      "The map doesn't end here — it just keeps drawing forward. Every day is " +
-      "a new node waiting to be unlocked.",
-    question: "what was my text after our families met?",
+      "I wasnt planning on marriage this soon, you convinced me that living with you can make me happier and want to look forward to everyday " +
+      "I felt the calm after chaos, to join your family, to be a part of yours, to call each other family",
+    question: "what was alu's text after our families met?",
     hint: "common this is very recent you cant forget this",
     answers: ["welcome to the family"],
   },

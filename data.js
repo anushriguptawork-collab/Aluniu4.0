@@ -47,7 +47,7 @@ window.CHAPTERS = [
   },
   {
     name: "Chapter II — life happened",
-    code: "Universeplan",
+    code: "UNIVERSE'SPLAN",
     intro: "Five memories in. Enter the next code to continue the adventure.",
   },
   {
@@ -77,7 +77,7 @@ window.JOURNEY = [
     id: "movie",
     x: 24, y: 12,
     icon: "🎬",
-    title: "it just felt right- Magic",
+    title: "Felt right- Magic",
     date: "Nov 2023",
     photo: "images/movie.jpg",
     blurb:
@@ -91,7 +91,7 @@ window.JOURNEY = [
     id: "rain",
     x: 41, y: 20,
     icon: "🌧️",
-    title: "love like yours and mine last forever",
+    title: "Attempt to forever",
     date: "19 Nov 2023",
     photo: "images/rain.jpg",
     blurb:
@@ -119,12 +119,12 @@ window.JOURNEY = [
     id: "stars",
     x: 74, y: 20,
     icon: "⭐",
-    title: "First 'I Like You'",
-    date: "Autumn, 2016",
+    title: "Prague Night'",
+    date: "nov 2023",
     photo: "images/stars.jpg",
     blurb:
-      "Said out loud, finally, on a rooftop that was a little too cold. " +
-      "Worth every shiver.",
+      "It was only natural for me to say it without thinking, I guess you are the only person I wanted to call mine " +
+      "That night, this trip defined us for me",
     question: "When was the first time I called you my boyfriend?",
     hint: "the night of our lives.",
     answers: ["strip club", "at the strip club", "prague"],
@@ -133,44 +133,44 @@ window.JOURNEY = [
     id: "starsnew",
     x: 90, y: 13,
     icon: "⭐",
-    title: "First 'I Like You'",
-    date: "Autumn, 2016",
+    title: "Sunflowers",
+    date: "19 Nov 2023",
     photo: "images/stars.jpg",
     blurb:
-      "Said out loud, finally, on a rooftop that was a little too cold. " +
-      "Worth every shiver.",
-    question: "When was the first time I called you my boyfriend?",
-    hint: "the night of our lives.",
-    answers: ["strip club", "at the strip club", "prague"],
+      "I beleive we have been finding clues in the universe, that stay with us in this journey " +
+      "Van gogh's sunflower got love and light, core memory",
+    question: "& it was all yellow, van gogh's .........",
+    hint: "a flower",
+    answers: ["sunflower"],
   },
-  /* ───────── Chapter II — Adventures (code: JOURNEY) ───────── */
+  /* ───────── Chapter II — Adventures (code: UNIVERSE'SPLAN) ───────── */
   {
     id: "mountain",
     x: 90, y: 44,
     icon: "🏔️",
-    title: "The Mountain",
-    date: "Summer, 2017",
+    title: "Lost & Found",
+    date: "Feb 2024",
     photo: "images/mountain.jpg",
     blurb:
-      "We got hopelessly lost, missed the last bus, and laughed until it " +
-      "didn't matter. The first of a thousand detours worth taking.",
-    question: "What did we climb on our first big trip together?",
-    hint: "Snow at the top, a flag we planted, and a view we still talk about.",
-    answers: ["mountain", "the mountain", "a mountain", "mountains", "hill"],
+      "We got hopelessly lost, it was only a matter of time until we found each other in the most raw, beautiful, coincidental ways." +
+      "One of many detours worth taking.",
+    question: "I was lost...Where did you find me?",
+    hint: "alu's fav place in ahemdabad",
+    answers: ["riverfront"],
   },
   {
     id: "roadtrip",
     x: 74, y: 52,
     icon: "🚗",
-    title: "The Road Trip",
-    date: "Autumn, 2017",
+    title: "make you mine",
+    date: "March 2024",
     photo: "images/roadtrip.jpg",
     blurb:
       "One playlist on repeat, a map we never really read, and a detour that " +
       "became the whole point.",
-    question: "What ran out halfway, forcing our best detour?",
-    hint: "The car needs it. The gauge hit E.",
-    answers: ["fuel", "gas", "petrol", "the fuel", "gasoline"],
+    question: "Our song that Alu played on the way to ahmedabad airport when we were breaking up?",
+    hint: "mine",
+    answers: ["put your hand in mine", "Make You Mine", "make you mine"],
   },
   {
     id: "beach",

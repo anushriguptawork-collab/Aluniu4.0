@@ -176,50 +176,50 @@ window.JOURNEY = [
     id: "beach",
     x: 57, y: 44,
     icon: "🌊",
-    title: "The Beach",
-    date: "Summer, 2018",
+    title: "love begins",
+    date: "April 2024",
     photo: "images/beach.jpg",
     blurb:
-      "We spent an hour building it and the sea took it in ten seconds. We " +
-      "cheered anyway.",
-    question: "What did we build that the tide swept away?",
-    hint: "Made of sand, complete with a moat.",
-    answers: ["sandcastle", "sand castle", "a sandcastle", "castle"],
+      "Conversations that move us, that stay. I love to have conversations that matter, that put our beliefs to question, that we learn and adapt from, you have been that one person i want to talk to about anything and everything  " +
+      "I was on the terrace where i spend hours of my childhood pondering about the existence of this world, complex concepts, I was always lost and alone in these thoughts, that night younger alu slept with so much peace knowing she was not alone and weird afterall, she just needed to find someone who matches her freak",
+    question: "Where was I when we had a ver long midnight conversation about souls, stars and everything in between?",
+    hint: "I belong to...",
+    answers: ["pipariya"],
   },
   {
     id: "song",
     x: 41, y: 52,
     icon: "🎶",
-    title: "Our Song",
-    date: "New Year's Eve, 2018",
+    title: "Moving in",
+    date: "July 2024",
     photo: "images/song.jpg",
     blurb:
-      "Played it once, badly, on a borrowed guitar. Now it hijacks every " +
-      "road-trip playlist.",
-    question: "What single word do we always shout in the chorus?",
-    hint: "It's what we say when things go right. Four letters, full of light.",
-    answers: ["home", "the word home", "'home'"],
+      "A few days of living together felt like you are my end goal, that living with someone can be this fun? It felt utterly life changing and filled with happiness " +
+      "to a lifetime of food experiements",
+    question: "What was the spicy food experiment we did while living together?",
+    hint: "we kept adding cheese",
+    answers: ["red sauce pasta", "penne pasta"],
   },
   {
     id: "cat",
     x: 22, y: 44,
     icon: "🐱",
-    title: "The Stray We Kept",
-    date: "Spring, 2019",
+    title: "oh tobein love",
+    date: "October 2024",
     photo: "images/cat.jpg",
     blurb:
       "Followed us home in the rain and simply never left. Best decision we " +
       "didn't really make.",
-    question: "What kind of animal did we adopt together?",
-    hint: "It purrs, it naps in sunbeams, and it rules the house.",
-    answers: ["cat", "a cat", "kitten", "the cat", "kitty"],
+    question: "What was the name of the wine you got me in ahmedabad and I wanted it?",
+    hint: "it's who I am, its by an instagram creator",
+    answers: ["poet", "Lost Poet"],
   },
    {
     id: "era",
     x: 8, y: 52,
     icon: "🐱",
     title: "The Stray We Kept",
-    date: "Spring, 2019",
+    date: "November, 2024",
     photo: "images/cat.jpg",
     blurb:
       "Followed us home in the rain and simply never left. Best decision we " +

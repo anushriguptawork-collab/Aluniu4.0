@@ -166,8 +166,8 @@ window.JOURNEY = [
     date: "March 2024",
     photo: "images/8.jpg",
     blurb:
-      "One playlist on repeat, a map we never really read, and a detour that " +
-      "became the whole point.",
+      "I knew i had hope, somewhere in my heart i didnt want you to go or accept that you dont want to stay in my life, i think we were meant to get separated to find each other better " +
+      "i think third time is the charm haha",
     question: "Our song that Alu played on the way to ahmedabad airport when we were breaking up?",
     hint: "mine",
     answers: ["put your hand in mine", "Make You Mine", "make you mine"],
@@ -208,9 +208,9 @@ window.JOURNEY = [
     date: "October 2024",
     photo: "images/11.jpg",
     blurb:
-      "Followed us home in the rain and simply never left. Best decision we " +
-      "didn't really make.",
-    question: "What was the name of the wine you got me in ahmedabad and I wanted it?",
+      "we made efforts to see each other, when we could not our lives just aligned for us, you were somehow always reachable even in all these days of long distance" +
+      "We who worried how could we even do another long distance, made it here",
+    question: "What was the name of the wine you got me in ahmedabad and I was very surprised?",
     hint: "it's who I am, its by an instagram creator",
     answers: ["poet", "Lost Poet"],
   },

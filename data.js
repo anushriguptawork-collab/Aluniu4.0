@@ -307,8 +307,8 @@ window.JOURNEY = [
     date: "7 august 2026",
     photo: "images/18.jpg",
     blurb:
-      "The map doesn't end here, it just keeps drawing forward. Every day from now on is " +
-      "a new node waiting to be unlocked.",
+      "From ill eat veg with you to ill have you to ill be with you for rest of our life, its been a crazy journey hehe " +
+      "i am so excited to start this chapter of life with you",
     question: "Will you be alu's husband and partner for life, till death do us part?",
     hint: "You can't say no",
     answers: ["yes"],

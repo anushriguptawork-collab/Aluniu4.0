@@ -182,7 +182,7 @@ window.JOURNEY = [
     blurb:
       "Conversations that move us, that stay. I love to have conversations that matter, that put our beliefs to question, that we learn and adapt from, you have been that one person i want to talk to about anything and everything  " +
       "I was on the terrace where i spend hours of my childhood pondering about the existence of this world, complex concepts, I was always lost and alone in these thoughts, that night younger alu slept with so much peace knowing she was not alone and weird afterall, she just needed to find someone who matches her freak",
-    question: "Where was I when we had a ver long midnight conversation about souls, stars and everything in between?",
+    question: "Where was I when we had a very long midnight conversation about souls, stars and everything in between?",
     hint: "I belong to...",
     answers: ["pipariya"],
   },
@@ -197,14 +197,14 @@ window.JOURNEY = [
       "A few days of living together felt like you are my end goal, that living with someone can be this fun? It felt utterly life changing and filled with happiness " +
       "to a lifetime of food experiements",
     question: "What was the spicy food experiment we did while living together?",
-    hint: "we kept adding cheese",
+    hint: "which sauce...",
     answers: ["red sauce pasta", "penne pasta"],
   },
   {
     id: "cat",
     x: 22, y: 44,
     icon: "🐱",
-    title: "oh tobein love",
+    title: "oh to be in love",
     date: "October 2024",
     photo: "images/cat.jpg",
     blurb:
@@ -238,25 +238,25 @@ window.JOURNEY = [
     date: "16 Feb 2025",
     photo: "images/home.jpg",
     blurb:
-      "Empty rooms, too many boxes, and a pizza on the floor. It wasn't much, " +
-      "but it was ours.",
-    question: "What did we eat on our first night in the new place?",
-    hint: "Round, cheesy, eaten straight off the box on a bare floor.",
-    answers: ["pizza", "a pizza", "the pizza", "pizzas"],
+      "The best part about you all these years has been the willingness to do things for me, treat me the best you can and make me feel special always " +
+      "be it in these tiny little things or the biggest of decisions, i think thats what life would look like with you- always being treated right",
+    question: "Which exact color did you color my hair with?",
+    hint: "the color is also a stone or an alcoholic drink",
+    answers: ["red wine", "ruby"],
   },
   {
     id: "question",
     x: 24, y: 84,
     icon: "💍",
-    title: "The Question",
-    date: "Winter, 2019",
+    title: "tu hai tho ill be alright",
+    date: "April 2025",
     photo: "images/question.jpg",
     blurb:
-      "One knee, one shaky voice, one word that changed the shape of every " +
-      "day after.",
-    question: "What single word changed everything?",
-    hint: "The opposite of no.",
-    answers: ["yes", "yes!", "i do", "yes i do"],
+      "Your touch has become a memory to my cells, so calming and healing, everything feels alright when you hold me. I cannot forget you massaging my legs while I fell asleep on the couch " +
+      "i fell in love a little more with you",
+    question: "Where were we sitting after the book launch and you made me sleep?",
+    hint: "hmm difficult to give hint also, it can be a 4 letter work or 9 letter word",
+    answers: ["reception", "sofa outside hotel", "sofa"],
   },
   {
     id: "bigday",
@@ -276,29 +276,29 @@ window.JOURNEY = [
     id: "honeymoon",
     x: 54, y: 84,
     icon: "✈️",
-    title: "The Honeymoon",
-    date: "Autumn, 2020",
+    title: "Lights out & rains",
+    date: "October 2025",
     photo: "images/honeymoon.jpg",
     blurb:
       "We got delightfully lost down every side street and called it a plan. " +
       "The city of light, indeed.",
-    question: "Which city did we get delightfully lost in?",
-    hint: "City of light. Iron tower. Too many pastries.",
-    answers: ["paris", "paris france"],
+    question: "Which bar had the lights out and the best memories of goa?",
+    hint: "huh itni kharab memory?",
+    answers: ["bar outrigger"],
   },
   {
     id: "onward",
     x: 74, y: 76,
     icon: "♾️",
-    title: "And Onward",
-    date: "Today, and after",
+    title: "family",
+    date: "July 2026",
     photo: "images/onward.jpg",
     blurb:
       "The map doesn't end here — it just keeps drawing forward. Every day is " +
       "a new node waiting to be unlocked.",
-    question: "How long does this journey last?",
-    hint: "Not a number. The answer we always give each other.",
-    answers: ["forever", "always", "for ever", "eternity"],
+    question: "what was my text after our families met?",
+    hint: "common this is very recent you cant forget this",
+    answers: ["welcome to the family"],
   },
   {
     id: "question",

@@ -97,7 +97,7 @@ window.JOURNEY = [
     blurb:
       "We were scared, we are scared now, we sort of cancelling our own ideas, we evolved." +
       "It was the happiest times, that piece of love and happiness I felt there stayed till now and so shall this",
-    question: "we wrote the same sentence on a note, although its debateable now",
+    question: "we wrote the same sentence on a note, although its debatable now",
     hint: "three words",
     answers: ["nothing lasts forever", "nothing last forever", "last forever"],
   },
@@ -109,8 +109,8 @@ window.JOURNEY = [
     date: "nov 2023",
     photo: "images/fair.jpg",
     blurb:
-      "Cotton candy, terrible aim at the ring toss, and one ride we rode " +
-      "until the sun went down.",
+      "This memory stands vivid in my head, too many feelings, confusion, this felt like that place beyond right and wrong" +
+      "and I am glad i met you there.",
     question: "At the vending machine, thinking all the wrongs and rights.. what were we buying?",
     hint: "What if we had not..",
     answers: ["condom", "condoms", "condom packet"],
@@ -129,7 +129,6 @@ window.JOURNEY = [
     hint: "the night of our lives.",
     answers: ["strip club", "at the strip club", "prague"],
   },
-
   /* ───────── Chapter II — Adventures (code: JOURNEY) ───────── */
   {
     id: "mountain",

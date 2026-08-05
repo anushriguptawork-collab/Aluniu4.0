@@ -37,7 +37,7 @@
  * matched by position to the CHAPTERS array (entries 0–4 → chapter 0, etc.).
  */
 
-window.CHAPTER_SIZE = 5;
+window.CHAPTER_SIZE = 6;
 
 window.CHAPTERS = [
   {
@@ -61,7 +61,7 @@ window.JOURNEY = [
   /* ───────── Chapter I — Who made the first move (code: ITWASME) ───────── */
   {
     id: "meet",
-    x: 10, y: 18,
+    x: 8, y: 20,
     icon: "☕",
     title: "Chaat pe chalegi?",
     date: "Oct 2023",
@@ -75,7 +75,7 @@ window.JOURNEY = [
   },
   {
     id: "movie",
-    x: 28, y: 28,
+    x: 24, y: 12,
     icon: "🎬",
     title: "it just felt right- Magic",
     date: "Nov 2023",
@@ -89,7 +89,7 @@ window.JOURNEY = [
   },
   {
     id: "rain",
-    x: 46, y: 16,
+    x: 41, y: 20,
     icon: "🌧️",
     title: "love like yours and mine last forever",
     date: "19 Nov 2023",
@@ -103,7 +103,7 @@ window.JOURNEY = [
   },
   {
     id: "fair",
-    x: 64, y: 26,
+    x: 57, y: 12,
     icon: "🎡",
     title: "What if...",
     date: "nov 2023",
@@ -117,7 +117,21 @@ window.JOURNEY = [
   },
   {
     id: "stars",
-    x: 82, y: 16,
+    x: 74, y: 20,
+    icon: "⭐",
+    title: "First 'I Like You'",
+    date: "Autumn, 2016",
+    photo: "images/stars.jpg",
+    blurb:
+      "Said out loud, finally, on a rooftop that was a little too cold. " +
+      "Worth every shiver.",
+    question: "When was the first time I called you my boyfriend?",
+    hint: "the night of our lives.",
+    answers: ["strip club", "at the strip club", "prague"],
+  },
+  {
+    id: "starsnew",
+    x: 90, y: 13,
     icon: "⭐",
     title: "First 'I Like You'",
     date: "Autumn, 2016",
@@ -132,7 +146,7 @@ window.JOURNEY = [
   /* ───────── Chapter II — Adventures (code: JOURNEY) ───────── */
   {
     id: "mountain",
-    x: 86, y: 44,
+    x: 90, y: 44,
     icon: "🏔️",
     title: "The Mountain",
     date: "Summer, 2017",
@@ -146,7 +160,7 @@ window.JOURNEY = [
   },
   {
     id: "roadtrip",
-    x: 66, y: 52,
+    x: 74, y: 52,
     icon: "🚗",
     title: "The Road Trip",
     date: "Autumn, 2017",
@@ -160,7 +174,7 @@ window.JOURNEY = [
   },
   {
     id: "beach",
-    x: 48, y: 44,
+    x: 57, y: 44,
     icon: "🌊",
     title: "The Beach",
     date: "Summer, 2018",
@@ -174,7 +188,7 @@ window.JOURNEY = [
   },
   {
     id: "song",
-    x: 30, y: 52,
+    x: 41, y: 52,
     icon: "🎶",
     title: "Our Song",
     date: "New Year's Eve, 2018",
@@ -188,7 +202,21 @@ window.JOURNEY = [
   },
   {
     id: "cat",
-    x: 12, y: 46,
+    x: 22, y: 44,
+    icon: "🐱",
+    title: "The Stray We Kept",
+    date: "Spring, 2019",
+    photo: "images/cat.jpg",
+    blurb:
+      "Followed us home in the rain and simply never left. Best decision we " +
+      "didn't really make.",
+    question: "What kind of animal did we adopt together?",
+    hint: "It purrs, it naps in sunbeams, and it rules the house.",
+    answers: ["cat", "a cat", "kitten", "the cat", "kitty"],
+  },
+   {
+    id: "era",
+    x: 8, y: 52,
     icon: "🐱",
     title: "The Stray We Kept",
     date: "Spring, 2019",
@@ -204,7 +232,7 @@ window.JOURNEY = [
   /* ───────── Chapter III — Forever (code: FOREVER) ───────── */
   {
     id: "home",
-    x: 14, y: 70,
+    x: 8, y: 76,
     icon: "🏡",
     title: "A Place of Our Own",
     date: "Spring, 2019",
@@ -218,7 +246,7 @@ window.JOURNEY = [
   },
   {
     id: "question",
-    x: 32, y: 80,
+    x: 24, y: 84,
     icon: "💍",
     title: "The Question",
     date: "Winter, 2019",
@@ -232,7 +260,7 @@ window.JOURNEY = [
   },
   {
     id: "bigday",
-    x: 52, y: 70,
+    x: 41, y: 76,
     icon: "🎉",
     title: "The Big Day",
     date: "Summer, 2020",
@@ -246,7 +274,7 @@ window.JOURNEY = [
   },
   {
     id: "honeymoon",
-    x: 72, y: 80,
+    x: 54, y: 84,
     icon: "✈️",
     title: "The Honeymoon",
     date: "Autumn, 2020",
@@ -260,7 +288,21 @@ window.JOURNEY = [
   },
   {
     id: "onward",
-    x: 88, y: 72,
+    x: 74, y: 76,
+    icon: "♾️",
+    title: "And Onward",
+    date: "Today, and after",
+    photo: "images/onward.jpg",
+    blurb:
+      "The map doesn't end here — it just keeps drawing forward. Every day is " +
+      "a new node waiting to be unlocked.",
+    question: "How long does this journey last?",
+    hint: "Not a number. The answer we always give each other.",
+    answers: ["forever", "always", "for ever", "eternity"],
+  },
+  {
+    id: "question",
+    x: 90, y: 84,
     icon: "♾️",
     title: "And Onward",
     date: "Today, and after",

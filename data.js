@@ -60,12 +60,12 @@ window.CHAPTERS = [
 window.JOURNEY = [
   /* ───────── Chapter I — Who made the first move (code: ITWASME) ───────── */
   {
-    id: "meet",
+    id: "one",
     x: 8, y: 20,
     icon: "☕",
     title: "Chaat pe chalegi?",
     date: "Oct 2023",
-    photo: "images/meet.JPG",
+    photo: "images/1.JPG",
     blurb:
       "Someone asking me chaat pe chalegi really hit home, I didnt know back then that this person would really become the home I crave " +
       "Thank you for being the most polite selfish person to ask me for a  conversation and seeing me through those pretty eyes for who I was, for who I can be",
@@ -74,12 +74,12 @@ window.JOURNEY = [
     answers: ["chaat", "chat", "rooftop"],
   },
   {
-    id: "movie",
+    id: "two",
     x: 24, y: 12,
     icon: "🎬",
     title: "Felt right- Magic",
     date: "Nov 2023",
-    photo: "images/movie.jpg",
+    photo: "images/2.jpg",
     blurb:
       "I love how everything in our story makes so much sense and we have the capability to romaticise it all" +
       "It was a winter evening, two utterly confused souls were talking if magic is real without knowing that what was happening with them was magic itself.",
@@ -88,12 +88,12 @@ window.JOURNEY = [
     answers: ["magic", "mag ic"],
   },
   {
-    id: "rain",
+    id: "three",
     x: 41, y: 20,
     icon: "🌧️",
     title: "Attempt to forever",
     date: "19 Nov 2023",
-    photo: "images/rain.jpg",
+    photo: "images/3.jpg",
     blurb:
       "We were scared, we are scared now, we sort of cancelling our own ideas, we evolved." +
       "It was the happiest times, that piece of love and happiness I felt there stayed till now and so shall this",
@@ -102,12 +102,12 @@ window.JOURNEY = [
     answers: ["nothing lasts forever", "nothing last forever", "last forever"],
   },
   {
-    id: "fair",
+    id: "four",
     x: 57, y: 12,
     icon: "🎡",
     title: "What if...",
     date: "nov 2023",
-    photo: "images/fair.jpg",
+    photo: "images/4.jpg",
     blurb:
       "This memory stands vivid in my head, too many feelings, confusion, this felt like that place beyond right and wrong" +
       "and I am glad i met you there.",
@@ -116,12 +116,12 @@ window.JOURNEY = [
     answers: ["condom", "condoms", "condom packet"],
   },
   {
-    id: "stars",
+    id: "five",
     x: 74, y: 20,
     icon: "⭐",
     title: "Prague Night'",
     date: "nov 2023",
-    photo: "images/stars.jpg",
+    photo: "images/5.jpg",
     blurb:
       "It was only natural for me to say it without thinking, I guess you are the only person I wanted to call mine " +
       "That night, this trip defined us for me",
@@ -130,12 +130,12 @@ window.JOURNEY = [
     answers: ["strip club", "at the strip club", "prague"],
   },
   {
-    id: "starsnew",
+    id: "six",
     x: 90, y: 13,
     icon: "⭐",
     title: "Sunflowers",
     date: "19 Nov 2023",
-    photo: "images/stars.jpg",
+    photo: "images/6.jpg",
     blurb:
       "I beleive we have been finding clues in the universe, that stay with us in this journey " +
       "Van gogh's sunflower got love and light, core memory",

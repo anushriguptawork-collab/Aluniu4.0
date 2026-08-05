@@ -218,18 +218,18 @@ window.JOURNEY = [
     id: "era",
     x: 8, y: 52,
     icon: "🐱",
-    title: "The Stray We Kept",
+    title: "beach effect",
     date: "November, 2024",
     photo: "images/cat.jpg",
     blurb:
-      "Followed us home in the rain and simply never left. Best decision we " +
-      "didn't really make.",
-    question: "What kind of animal did we adopt together?",
-    hint: "It purrs, it naps in sunbeams, and it rules the house.",
-    answers: ["cat", "a cat", "kitten", "the cat", "kitty"],
+      "You know there are these highlights of our story that made me beleive in us better than before, for the trust in you and your love, for the darker nights to be a bit brighter with you" +
+      "moving forward i trust that we can deal with any situation like this fun dark night",
+    question: "The beach that got us stuck through the curvy roads of goa",
+    hint: "it's an effect",
+    answers: ["butterfly"],
   },
 
-  /* ───────── Chapter III — Forever (code: FOREVER) ───────── */
+  /* ───────── Chapter III — Forever (code: THEOLIVETHEORY) ───────── */
   {
     id: "home",
     x: 8, y: 76,
